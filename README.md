@@ -15,7 +15,7 @@ Features:
 
 ### Installing
 ```
-git clone https://github.com/TimothyIp/rr_challenge.git .
+git clone https://github.com/Jovaneah/Real-Chat.git .
 npm install
 cd server (server has own dependencies)
 npm install
